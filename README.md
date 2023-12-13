@@ -6,3 +6,6 @@ This reppo was created for my book. Actually I have no idea about it's title yet
 
 The book is being written in russian, but let me know if you are interested in translations.
 
+
+
+[TeamsBook in russian](book_ru/README.md)
