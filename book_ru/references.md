@@ -14,17 +14,24 @@
 12. Патрик Ленсиони “Пять пороков команд”, 2002
 13. Хэкман “Пять факторов эффективности команды”, 2002
 14. Манифест Agile: http://agilemanifesto.org/
-15. Долгов Максим “Модель 5f: Геометрия команды, создающая энергию”, 2019
-16. Patrik Lindenfors, Andreas Wartel and Johan Lind ''‘Dunbar's number’ deconstructed", 2021 https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158
-17. Уильям Росс Эшби, "Введение в кибернетику" (1956) Лондон: Chapman & Hall Ltd. [ISBN](https://translated.turbopages.org/proxy_u/en-ru.ru.4905f7a1-6481a955-33490705-74722d776562/https/en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (идентификатор)") [9781614277651](https://translated.turbopages.org/proxy_u/en-ru.ru.4905f7a1-6481a955-33490705-74722d776562/https/en.wikipedia.org/wiki/Special:BookSources/9781614277651 "Специальный раздел:Книжные источники/9781614277651").
-18. Норберт Винер, "Кибернетика, или Управление и связь в животном и машине"
-19. Маркус Райхл. "Тёмная энергия мозга" // В мире науки. — 2010. — № 5. — С. 24-29.
-20. Мартынов Илья Андреевич "Мозг. Как он устроен и что с ним делать",  АСТ, 2019
-21. The Psychology of Rituals: An Integrative Review and Process-Based Framework https://faculty.haas.berkeley.edu/jschroeder/Publications/Hobson%20et%20al%20Psychology%20of%20Rituals.pdf
-22. J. A. Barnes "Class and Committees in a Norwegian Island Paris" http://pierremerckle.fr/wp-content/uploads/2012/03/Barnes.pdf
-23. Milgram, "The Small World Problem", Physiology Today 2, 1967.
-24. Mark S. Granovetter, "The strength of weak ties: a network theory revisited", Sociological Theory Vol. 1, 1983.
-25. Rob Cross, Andrew Parker, Robert L. Cross, "The Hidden Power of Social Networks: Understanding How Work Really Gets Done in Organizations", Harvard Business School Press, 2004
-26. Dunbar, R.I.M. "Neocortex size as a constraint on group size in primates" (англ.) // [Journal of Human Evolution](https://ru.wikipedia.org/wiki/Journal_of_Human_Evolution "Journal of Human Evolution") : journal. — 1992. — June (vol. 22, no. 6). — P. 469—493. — [doi](https://ru.wikipedia.org/wiki/Doi "Doi"):[10.1016/0047-2484(92)90081-J](https://dx.doi.org/10.1016%2F0047-2484%2892%2990081-J).
-27. Malcolm Gladwell, "The Tipping Point: How Little Things can make a Big Difference", Little Brown, 2000. 
-28. 
+15. Дж. В. Ньюстром и К. Дэвис "Организационное поведение", 2000
+16. **ГК «Институт Тренинга – АРБ Про», 1994**
+17. **Галкина Т.П. 2001**
+18. **Боровикова Н., Петров В., 2002**
+19. **Занковский А.Н., 2002**
+20. Полушкина Т.М., Коваленко Е.Г., Якимова О.Ю. «Социология управления: учебное пособие», [Академия Естествознания](http://express.rae.ru/), 2013
+21. Долгов Максим “Модель 5f: Геометрия команды, создающая энергию”, 2019
+22. M. Gladwell "The Tipping Point: How Little Things Can Make a Big Difference", 2000
+23. Patrik Lindenfors, Andreas Wartel and Johan Lind ''‘Dunbar's number’ deconstructed", 2021 https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158
+24. Уильям Росс Эшби, "Введение в кибернетику" (1956) Лондон: Chapman & Hall Ltd. [ISBN](https://translated.turbopages.org/proxy_u/en-ru.ru.4905f7a1-6481a955-33490705-74722d776562/https/en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (идентификатор)") [9781614277651](https://translated.turbopages.org/proxy_u/en-ru.ru.4905f7a1-6481a955-33490705-74722d776562/https/en.wikipedia.org/wiki/Special:BookSources/9781614277651 "Специальный раздел:Книжные источники/9781614277651").
+25. Норберт Винер, "Кибернетика, или Управление и связь в животном и машине"
+26. Маркус Райхл. "Тёмная энергия мозга" // В мире науки. — 2010. — № 5. — С. 24-29.
+27. Мартынов Илья Андреевич "Мозг. Как он устроен и что с ним делать",  АСТ, 2019
+28. The Psychology of Rituals: An Integrative Review and Process-Based Framework https://faculty.haas.berkeley.edu/jschroeder/Publications/Hobson%20et%20al%20Psychology%20of%20Rituals.pdf
+29. J. A. Barnes "Class and Committees in a Norwegian Island Paris" http://pierremerckle.fr/wp-content/uploads/2012/03/Barnes.pdf
+30. Milgram, "The Small World Problem", Physiology Today 2, 1967.
+31. Mark S. Granovetter, "The strength of weak ties: a network theory revisited", Sociological Theory Vol. 1, 1983.
+32. Rob Cross, Andrew Parker, Robert L. Cross, "The Hidden Power of Social Networks: Understanding How Work Really Gets Done in Organizations", Harvard Business School Press, 2004
+33. Dunbar, R.I.M. "Neocortex size as a constraint on group size in primates" (англ.) // [Journal of Human Evolution](https://ru.wikipedia.org/wiki/Journal_of_Human_Evolution "Journal of Human Evolution") : journal. — 1992. — June (vol. 22, no. 6). — P. 469—493. — [doi](https://ru.wikipedia.org/wiki/Doi "Doi"):[10.1016/0047-2484(92)90081-J](https://dx.doi.org/10.1016%2F0047-2484%2892%2990081-J).
+34. Malcolm Gladwell, "The Tipping Point: How Little Things can make a Big Difference", Little Brown, 2000. 
+35. 
