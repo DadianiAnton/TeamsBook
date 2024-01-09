@@ -1,5 +1,7 @@
 # Список литературы
 
+## Глава1
+
 1. Мескон М.Х., Альбеpт М, Хедоуpи Ф. Основы менеджмента: Пеp.с англ. - М.: Дело, 1992. - 702 
 2. Фалмер Р.М. Энциклопедия современного управления. Т.3. -М.: ВИПКэнерго, 1992.- 109 с.
 3. Карякин А.М. Рабочие команды: основы теории и практики. - Иван. гос. энерг. ун-т. - Иваново, 1997. – 116 с.
@@ -27,16 +29,29 @@
 23. Dunbar, R.I.M. "Neocortex size as a constraint on group size in primates" (англ.) // [Journal of Human Evolution](https://ru.wikipedia.org/wiki/Journal_of_Human_Evolution "Journal of Human Evolution") : journal. — 1992. — June (vol. 22, no. 6). — P. 469—493. — [doi](https://ru.wikipedia.org/wiki/Doi "Doi"):[10.1016/0047-2484(92)90081-J](https://dx.doi.org/10.1016%2F0047-2484%2892%2990081-J).
 24. M. Gladwell "The Tipping Point: How Little Things Can Make a Big Difference", 2000
 25. Patrik Lindenfors, Andreas Wartel and Johan Lind ''‘Dunbar's number’ deconstructed", 2021 https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158
-26. Уильям Росс Эшби, "Введение в кибернетику" (1956) Лондон: Chapman & Hall Ltd. [ISBN](https://translated.turbopages.org/proxy_u/en-ru.ru.4905f7a1-6481a955-33490705-74722d776562/https/en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (идентификатор)") [9781614277651](https://translated.turbopages.org/proxy_u/en-ru.ru.4905f7a1-6481a955-33490705-74722d776562/https/en.wikipedia.org/wiki/Special:BookSources/9781614277651 "Специальный раздел:Книжные источники/9781614277651").
-27. Норберт Винер, "Кибернетика, или Управление и связь в животном и машине"
-28. Газарян А. "Менеджер и организация", МИФ, 2014
-29. Маркус Райхл. "Тёмная энергия мозга" // В мире науки. — 2010. — № 5. — С. 24-29.
-30. Мартынов Илья Андреевич "Мозг. Как он устроен и что с ним делать", АСТ, 2019
-31. Уорнер Малкольм, Витцель Морген "Виртуальные организации. Новые формы ведения бизнеса в XXI веке", Добрая книга, 2005
-32. Richerson Peter J., Boyd, Robert "Not By Genes Alone: How Culture Transformed Human Evolution", Chicago: University of Chicago Press, 2005
-33. The Psychology of Rituals: An Integrative Review and Process-Based Framework https://faculty.haas.berkeley.edu/jschroeder/Publications/Hobson%20et%20al%20Psychology%20of%20Rituals.pdf
-34. J. A. Barnes "Class and Committees in a Norwegian Island Paris" http://pierremerckle.fr/wp-content/uploads/2012/03/Barnes.pdf
-35. Milgram, "The Small World Problem", Physiology Today 2, 1967.
-36. Rob Cross, Andrew Parker, Robert L. Cross, "The Hidden Power of Social Networks: Understanding How Work Really Gets Done in Organizations", Harvard Business School Press, 2004
-37. Mark S. Granovetter, "The strength of weak ties: a network theory revisited", Sociological Theory Vol. 1, 1983.
-38. Mark E. J. Newman "Why social networks are different from other types of networks", 2003
+
+## Глава 2
+
+1. Уильям Росс Эшби, "Введение в кибернетику" (1956) Лондон: Chapman & Hall Ltd. [ISBN](https://translated.turbopages.org/proxy_u/en-ru.ru.4905f7a1-6481a955-33490705-74722d776562/https/en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (идентификатор)") [9781614277651](https://translated.turbopages.org/proxy_u/en-ru.ru.4905f7a1-6481a955-33490705-74722d776562/https/en.wikipedia.org/wiki/Special:BookSources/9781614277651 "Специальный раздел:Книжные источники/9781614277651").
+2. Норберт Винер, "Кибернетика, или Управление и связь в животном и машине"
+3. Газарян А. "Менеджер и организация", МИФ, 2014
+4. Маркус Райхл. "Тёмная энергия мозга" // В мире науки. — 2010. — № 5. — С. 24-29.
+5. Мартынов Илья Андреевич "Мозг. Как он устроен и что с ним делать", АСТ, 2019
+6. Уорнер Малкольм, Витцель Морген "Виртуальные организации. Новые формы ведения бизнеса в XXI веке", Добрая книга, 2005
+7. Richerson Peter J., Boyd, Robert "Not By Genes Alone: How Culture Transformed Human Evolution", Chicago: University of Chicago Press, 2005
+8. The Psychology of Rituals: An Integrative Review and Process-Based Framework https://faculty.haas.berkeley.edu/jschroeder/Publications/Hobson%20et%20al%20Psychology%20of%20Rituals.pdf
+9. J. A. Barnes "Class and Committees in a Norwegian Island Paris" http://pierremerckle.fr/wp-content/uploads/2012/03/Barnes.pdf
+10. Milgram, "The Small World Problem", Physiology Today 2, 1967.
+11. Rob Cross, Andrew Parker, Robert L. Cross, "The Hidden Power of Social Networks: Understanding How Work Really Gets Done in Organizations", Harvard Business School Press, 2004
+12. Mark S. Granovetter, "The strength of weak ties: a network theory revisited", Sociological Theory Vol. 1, 1983.
+13. Mark E. J. Newman "Why social networks are different from other types of networks", 2003
+
+## Глава 3
+
+## Глава 4
+
+## Глава 5
+
+1. Шериф, М .; Харви, О.Дж.; Уайт, минет; Худ, У. и Шериф, CW (1961). *Межгрупповой конфликт и сотрудничество: эксперимент в пещере разбойников* . Норман, ОК: Университетский книжный обмен. С. 155–184.
+2. Де Дреу, Карстен К.В. (2012). «Окситоцин регулирует сотрудничество внутри и конкуренцию между группами: комплексный обзор и исследовательская повестка дня». *Гормоны и поведение* .
+3. Чалдини, Роберт Б .; Борден, Ричард Дж .; Торн, Аврил; Уокер, Маркус Рэндалл; Фриман, Стивен; Слоан, Ллойд Рейнольдс (1974). «Купание в отраженной славе: три (футбольных) полевых исследования» . *Журнал личности и социальной психологии*.
