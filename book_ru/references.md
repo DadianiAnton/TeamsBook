@@ -40,11 +40,12 @@
 6. Уорнер Малкольм, Витцель Морген "Виртуальные организации. Новые формы ведения бизнеса в XXI веке", Добрая книга, 2005
 7. Richerson Peter J., Boyd, Robert "Not By Genes Alone: How Culture Transformed Human Evolution", Chicago: University of Chicago Press, 2005
 8. The Psychology of Rituals: An Integrative Review and Process-Based Framework https://faculty.haas.berkeley.edu/jschroeder/Publications/Hobson%20et%20al%20Psychology%20of%20Rituals.pdf
-9. J. A. Barnes "Class and Committees in a Norwegian Island Paris" http://pierremerckle.fr/wp-content/uploads/2012/03/Barnes.pdf
-10. Milgram, "The Small World Problem", Physiology Today 2, 1967.
-11. Rob Cross, Andrew Parker, Robert L. Cross, "The Hidden Power of Social Networks: Understanding How Work Really Gets Done in Organizations", Harvard Business School Press, 2004
-12. Mark S. Granovetter, "The strength of weak ties: a network theory revisited", Sociological Theory Vol. 1, 1983.
-13. Mark E. J. Newman "Why social networks are different from other types of networks", 2003
+9. Франс Де Вааль "Наша внутренняя обезьяна. Двойственная природа человека", Альпина нон-фикшн, 2021
+10. J. A. Barnes "Class and Committees in a Norwegian Island Paris" http://pierremerckle.fr/wp-content/uploads/2012/03/Barnes.pdf
+11. Milgram, "The Small World Problem", Physiology Today 2, 1967.
+12. Rob Cross, Andrew Parker, Robert L. Cross, "The Hidden Power of Social Networks: Understanding How Work Really Gets Done in Organizations", Harvard Business School Press, 2004
+13. Mark S. Granovetter, "The strength of weak ties: a network theory revisited", Sociological Theory Vol. 1, 1983.
+14. Mark E. J. Newman "Why social networks are different from other types of networks", 2003
 
 ## Глава 3
 
