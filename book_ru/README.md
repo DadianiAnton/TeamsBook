@@ -6,6 +6,10 @@
 > 
 > Книга находится в процессе компоновки и вычитки, поэтому возможны нестыковки в повествовании. Также продолжается сбор статистики для нормирования опросников и моделей, которые позволят проводить исследования в командах.
 
+
+
+
+
 Вы можете принять участие вместе со своей командой в исследовании, подав [заявку на получение опросника](https://forms.gle/dRAKLccWknNzZkf8A). Целью исследования является создание инструмента аудита команд по модели зрелости. Первый этап аудита — определение системных свойств команды.
 
 Заполните анкету, и вы получите на почту ссылку для прохождения опроса для вашей команды. Получив ссылку, поделитесь ею с вашими коллегами, чтобы они ответили на вопросы. Опросник полностью анонимный, его задача — собрать статистику, чтобы нормировать модель.
@@ -109,3 +113,7 @@
 - 
 
 [Список литературы](references.md)
+
+
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Текст распространяется по лицензии <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0</a> (копирование и создание производных произведений без указания авторства, а также коммерческое использование запрещены)<br/><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
