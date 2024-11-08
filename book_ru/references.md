@@ -19,16 +19,17 @@
     Francisco: Jossey-Bass, 2002
 14. Hackman J. R. "Leading teams: Setting the stage for great performances", Boston: Harvard Business School Press, 2002
 15. Манифест Agile: http://agilemanifesto.org/
-16. Дж. В. Ньюстром и К. Дэвис "Организационное поведение", Университетский учебник, 2000
-17. **ГК «Институт Тренинга – АРБ Про», 1994**
-18. Галкина Т.П. "# Социология управления: от группы к команде. Учебное пособие", Финансы и статистика, 2001
-19. Боровикова Н.В., Петров В.А. "Управленческая команда: статус, закономерности развития", Санкт-Петербург, 2005
-20. Занковский А.Н., "Организационная психология: Учебное пособие для вузов по специальности «Организационная психология»", 2002
-21. Полушкина Т.М., Коваленко Е.Г., Якимова О.Ю. «Социология управления: учебное пособие», [Академия Естествознания](http://express.rae.ru/), 2013
-22. Долгов Максим “Модель 5f: Геометрия команды, создающая энергию”, 2019
-23. Dunbar, R.I.M. "Neocortex size as a constraint on group size in primates" (англ.) // [Journal of Human Evolution](https://ru.wikipedia.org/wiki/Journal_of_Human_Evolution "Journal of Human Evolution") : journal. — 1992. — June (vol. 22, no. 6). — P. 469—493. — [doi](https://ru.wikipedia.org/wiki/Doi "Doi"):[10.1016/0047-2484(92)90081-J](https://dx.doi.org/10.1016%2F0047-2484%2892%2990081-J).
-24. M. Gladwell "The Tipping Point: How Little Things Can Make a Big Difference", 2000
-25. Patrik Lindenfors, Andreas Wartel and Johan Lind ''‘Dunbar's number’ deconstructed", 2021 https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158
+16. Donelson R.Forsyth, "Group Dynamics: Seventh Edition", 2019
+17. Дж. В. Ньюстром и К. Дэвис "Организационное поведение", Университетский учебник, 2000
+18. **ГК «Институт Тренинга – АРБ Про», 1994**
+19. Галкина Т.П. "# Социология управления: от группы к команде. Учебное пособие", Финансы и статистика, 2001
+20. Боровикова Н.В., Петров В.А. "Управленческая команда: статус, закономерности развития", Санкт-Петербург, 2005
+21. Занковский А.Н., "Организационная психология: Учебное пособие для вузов по специальности «Организационная психология»", 2002
+22. Полушкина Т.М., Коваленко Е.Г., Якимова О.Ю. «Социология управления: учебное пособие», [Академия Естествознания](http://express.rae.ru/), 2013
+23. Долгов Максим “Модель 5f: Геометрия команды, создающая энергию”, 2019
+24. Dunbar, R.I.M. "Neocortex size as a constraint on group size in primates" (англ.) // [Journal of Human Evolution](https://ru.wikipedia.org/wiki/Journal_of_Human_Evolution "Journal of Human Evolution") : journal. — 1992. — June (vol. 22, no. 6). — P. 469—493. — [doi](https://ru.wikipedia.org/wiki/Doi "Doi"):[10.1016/0047-2484(92)90081-J](https://dx.doi.org/10.1016%2F0047-2484%2892%2990081-J).
+25. M. Gladwell "The Tipping Point: How Little Things Can Make a Big Difference", 2000
+26. Patrik Lindenfors, Andreas Wartel and Johan Lind ''‘Dunbar's number’ deconstructed", 2021 https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158
 
 ## Глава 2
 
